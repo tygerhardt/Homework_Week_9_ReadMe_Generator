@@ -1,15 +1,15 @@
 
-# homework_week_9_readme_generator 
-# hey there
-# what;s up
-# step 1
-# sdflfsjdflsj
-# MIT license
+# Homework_Week_9_ReadMe_Generator 
+# Description: Allows user to create a formatted ReadMe doc from a template.
+# Table of Contents: n/a
+# Installation Steps: n/a
+# Usage Details: n/a
+# License Name: MIT License
 # 
             
  <img src="https://avatars3.githubusercontent.com/u/27053761?v=4" alt="drawing" width="150" display="inline"/> martsyalis  GitHubLink: https://github.com/Martsyalis
-# run it fast
-# no
+# How to run tests: n/a
+# Questions: n/a
 # Author Details 
 
 ![ProfileImage](https://avatars3.githubusercontent.com/u/63885719?v=4)
