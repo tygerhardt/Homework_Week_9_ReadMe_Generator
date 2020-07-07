@@ -1,6 +1,6 @@
 
 # Homework_Week_9_ReadMe_Generator 
-# Description: Allows user to create a formatted ReadMe doc from a template.
+# Description: Write code that allows user to automatically generate a preformatted ReadMe doc by answering prompted questions.
 # Table of Contents: n/a
 # Installation Steps: n/a
 # Usage Details: n/a
@@ -8,7 +8,7 @@
 # 
             
  <img src="https://avatars3.githubusercontent.com/u/27053761?v=4" alt="drawing" width="150" display="inline"/> martsyalis  GitHubLink: https://github.com/Martsyalis
-# How to run tests: n/a
+# Tests: n/a
 # Questions: n/a
 # Author Details 
 
